@@ -49,5 +49,13 @@ public ForgotPassword forgotPassword()
 	}
 	
 	
+	public void resetPassword()
+	{
+		System.out.println("Resetting the Password");
+	}
 	
+	public void logoutPage()
+	{
+		System.out.println("Logout Page");
+	}
 }
